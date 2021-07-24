@@ -3,8 +3,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <h2 class="footer-heading mb-4">About</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi cumque tenetur inventore
-                            veniam, hic vel ipsa necessitatibus ducimus architecto fugiat!</p>
+                        <p>Lekas sembuh dunia. Lekas Sembuh Indonesiaku...</p>
                         <div class="my-5">
                             <a href="#" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
                             <a href="#" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
@@ -15,32 +14,16 @@
                     <div class="col-lg-8">
                         <div class="row">
                             <div class="col-lg-4">
-                                <h2 class="footer-heading mb-4">Quick Links</h2>
-                                <ul class="list-unstyled">
-                                    <li><a href="#">Symptoms</a></li>
-                                    <li><a href="#">Prevention</a></li>
-                                    <li><a href="#">FAQs</a></li>
-                                    <li><a href="#">About Coronavirus</a></li>
-                                    <li><a href="#">Contact Us</a></li>
-                                </ul>
+                                #syahroel712<br>
+                                #syahrul712
                             </div>
                             <div class="col-lg-4">
-                                <h2 class="footer-heading mb-4">Helpful Link</h2>
-                                <ul class="list-unstyled">
-                                    <li><a href="#">Helathcare Professional</a></li>
-                                    <li><a href="#">LGU Facilities</a></li>
-                                    <li><a href="#">Protect Your Family</a></li>
-                                    <li><a href="#">World Health</a></li>
-                                </ul>
+                                #syahroel_712<br>
+                                #syahrul_712
                             </div>
                             <div class="col-lg-4">
-                                <h2 class="footer-heading mb-4">Resources</h2>
-                                <ul class="list-unstyled">
-                                    <li><a href="#">WHO Website</a></li>
-                                    <li><a href="#">CDC Website</a></li>
-                                    <li><a href="#">Gov Website</a></li>
-                                    <li><a href="#">DOH Website</a></li>
-                                </ul>
+                                #syahroel712<br>
+                                #syahrul712
                             </div>
                         </div>
                     </div>

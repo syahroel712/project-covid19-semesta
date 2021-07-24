@@ -14,7 +14,7 @@
                 <div class="row align-items-center">
 
                     <div class="col-6 col-xl-2">
-                        <div class="mb-0 site-logo"><a href="{{ route('/') }}" class="mb-0">Covid 19<span
+                        <div class="mb-0 site-logo"><a href="{{ route('dashboard') }}" class="mb-0">Covid 19<span
                                     class="text-primary">.</span> </a></div>
                     </div>
 
@@ -22,11 +22,10 @@
                         <nav class="site-navigation position-relative text-right" role="navigation">
 
                             <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
-                                <li class="{{ ($active == 'home') ? 'active' : '' }}"><a href="{{ route('/') }}" class="nav-link">Home</a></li>
-                                <li class="{{ ($active == 'statistik') ? 'active' : '' }}"><a href="{{ route('statistik') }}" class="nav-link">Statistik</a></li>
-                                <li class="{{ ($active == 'rumah-sakit') ? 'active' : '' }}"><a href="{{ route('rumahsakit') }}" class="nav-link">Rumah Sakit Rujukan</a></li>
-                                <li class="{{ ($active == 'registrasi') ? 'active' : '' }}"><a href="{{ route('registrasi') }}" class="nav-link">Registrasi Vaksin</a></li>
+                                <li class="{{ ($active == 'home') ? 'active' : '' }}"><a href="{{ route('dashboard') }}" class="nav-link">Home</a></li>
+                                <li class="{{ ($active == 'user') ? 'active' : '' }}"><a href="{{ route('user') }}" class="nav-link">Data Registrasi User</a></li>
                                 <li><a href="https://syahroel712.github.io/" class="nav-link" target="_blank">About Me</a></li>
+                                <li><a href="{{ route('logout') }}" class="nav-link">Logout</a></li>
                             </ul>
                         </nav>
                     </div>
